@@ -50,9 +50,7 @@ body{
 
 .l2w:hover{
   color:white;
-  outline: none;
-  border-color: #2196F3;
-  box-shadow: 0 0 20px #2196F3;
+  
 }
 
 .vertical{
@@ -62,4 +60,9 @@ body{
   transform: translate(-50%, -50%);
   margin:0px;
   padding:0px;
+}
+.vertical:hover{
+  outline: none;
+  border-color: #2196F3;
+  box-shadow: 0 0 20px #2196F3;
 }
